@@ -312,3 +312,6 @@ void liberarMemoria(struct Territorio* mapa, char* missao1, char* missao2) {
 
     printf("Memoria liberada.\n");
 }
+
+    return 0;
+}
